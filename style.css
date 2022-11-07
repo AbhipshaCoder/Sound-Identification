@@ -1,0 +1,42 @@
+body{
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Merriweather', serif;
+    background: pink;
+}
+
+.header_div{
+    background: white;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Merriweather', serif;
+    color: brown;
+}
+
+.header_div p{
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Merriweather', serif;
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Merriweather', serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: beige;
+    text-align: center;
+    text-shadow: 3px 3px 1px blueviolet;
+    font-weight: bold;
+}
